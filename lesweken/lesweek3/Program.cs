@@ -22,7 +22,6 @@ namespace lesweek3
             int resultaat3 = verhogen(a);
             int test = 0;
             
-            //test = Program.test1();
             Program p = new Program();
             p.test1();
             //Som, verschil, product en quotiënt

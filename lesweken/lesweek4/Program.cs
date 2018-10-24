@@ -33,36 +33,36 @@ namespace lesweek4
             int w = e + l + q + v;
             Console.WriteLine("Het resultaat is: " + w);
 
-            int resultaat1 = som(100, 7);
-            int resultaat2 = product(3, resultaat1);
-            int resultaat3 = som(406, 7367);
-            int resultaat4 = quotient(resultaat3, 69);
-            int resultaat5 = product(resultaat4, 5);
-            int resultaat6 = product(73, 41);
-            int resultaat7 = verschil(resultaat6, 39);
-            int resultaat8 = product(7, 8);
-            int resultaat9 = verschil(resultaat8, 19);
+            int resultaat1 = Som(100, 7);
+            int resultaat2 = Product(3, resultaat1);
+            int resultaat3 = Som(406, 7367);
+            int resultaat4 = Quotient(resultaat3, 69);
+            int resultaat5 = Product(resultaat4, 5);
+            int resultaat6 = Product(73, 41);
+            int resultaat7 = Verschil(resultaat6, 39);
+            int resultaat8 = Product(7, 8);
+            int resultaat9 = Verschil(resultaat8, 19);
             int totaal = resultaat2 + resultaat5 + resultaat7 + resultaat9;
             Console.WriteLine("Het resultaat is: " + totaal);
 
-            int resultaatb1 = som(100, 7);
-            int resultaatb2 = product(3, som(100, 7));
-            int resultaatb3 = som(406, 7367);
-            int resultaatb4 = quotient(som(406, 7367), 69);
-            int resultaatb5 = product(quotient(som(406, 7367), 69), 5);
-            int resultaatb6 = product(73, 41);
-            int resultaatb7 = verschil(product(73, 41), 39);
-            int resultaatb8 = product(7, 8);
-            int resultaatb9 = verschil(product(7, 8), 19);
+            int resultaatb1 = Som(100, 7);
+            int resultaatb2 = Product(3, Som(100, 7));
+            int resultaatb3 = Som(406, 7367);
+            int resultaatb4 = Quotient(Som(406, 7367), 69);
+            int resultaatb5 = Product(Quotient(Som(406, 7367), 69), 5);
+            int resultaatb6 = Product(73, 41);
+            int resultaatb7 = Verschil(Product(73, 41), 39);
+            int resultaatb8 = Product(7, 8);
+            int resultaatb9 = Verschil(Product(7, 8), 19);
 
             int totaal2 = 
-            product(3, som(100, 7)) + 
-            product(quotient(som(406, 7367), 69), 5) 
-            + verschil(product(73, 41), 39) + 
-            verschil(product(7, 8), 19);
+            Product(3, Som(100, 7)) + 
+            Product(Quotient(Som(406, 7367), 69), 5) 
+            + Verschil(Product(73, 41), 39) + 
+            Verschil(Product(7, 8), 19);
             Console.WriteLine("Het resultaat is: " + totaal2);
 
-            int totaal3 = som(som(som(product(3, som(100, 7)), product(quotient(som(406, 7367), 69), 5)), verschil(product(73, 41), 39)), verschil(product(7, 8), 19));
+            int totaal3 = Som(Som(Som(Product(3, Som(100, 7)), Product(Quotient(Som(406, 7367), 69), 5)), Verschil(Product(73, 41), 39)), Verschil(Product(7, 8), 19));
             Console.WriteLine("Het resultaat is: " + totaal3);
 
             totaal3 = 10000;
@@ -85,9 +85,13 @@ namespace lesweek4
                 Console.WriteLine("De teller is nu: " + teller);
             }
 
-            tafel(1);
-            tafel(2);
-            tafel(3);
+            Program program = new Program();
+            program.Tafel(1);
+            program.Tafel(2);
+            program.Tafel(3);
+            //Tafel(1);
+            //Tafel(2);
+            //Tafel(3);
 
             int getal3 = 4;
             do
@@ -104,7 +108,7 @@ namespace lesweek4
             }
         }
 
-        void tafel(int getal)
+        void Tafel(int getal)
         {
             Console.WriteLine("De tafel van: " + getal);
             for (int teller = 0; teller < 11; teller++)
@@ -114,18 +118,18 @@ namespace lesweek4
             }
         }
 
-        static int som(int getal1, int getal2){
+        static int Som(int getal1, int getal2){
             return getal1 + getal2;
         }
-        static int verschil(int getal1, int  getal2)
+        static int Verschil(int getal1, int  getal2)
         {
             return getal1 - getal2;
         }
-        static int quotient(int getal1, int getal2)
+        static int Quotient(int getal1, int getal2)
         {
             return getal1 / getal2;
         }
-        static int product(int getal1, int getal2)
+        static int Product(int getal1, int getal2)
         {
             return getal1 * getal2;
         }
