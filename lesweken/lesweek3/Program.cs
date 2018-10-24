@@ -20,6 +20,24 @@ namespace lesweek3
             int resultaat1 = optellen(a, b);
             int resultaat2 = deling(a, b);
             int resultaat3 = verhogen(a);
+            int test = 0;
+            
+            //test = Program.test1();
+            Program p = new Program();
+            p.test1();
+            //Som, verschil, product en quotiënt
+        }
+
+        void test1()
+        {
+            Console.WriteLine("Dag!");
+        }
+
+        void test2() => Console.WriteLine("Dag!");
+
+        int test3(){
+            Console.WriteLine("Dag!");
+            return 0;
         }
 
         static int optellen(int a, int b)

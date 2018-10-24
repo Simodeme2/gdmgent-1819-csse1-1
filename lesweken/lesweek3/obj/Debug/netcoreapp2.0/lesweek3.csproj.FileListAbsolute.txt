@@ -1,0 +1,11 @@
+C:\Users\topsolver\Code\gdmgent-1819-csse1\lesweken\lesweek3\bin\Debug\netcoreapp2.0\lesweek3.deps.json
+C:\Users\topsolver\Code\gdmgent-1819-csse1\lesweken\lesweek3\bin\Debug\netcoreapp2.0\lesweek3.runtimeconfig.json
+C:\Users\topsolver\Code\gdmgent-1819-csse1\lesweken\lesweek3\bin\Debug\netcoreapp2.0\lesweek3.runtimeconfig.dev.json
+C:\Users\topsolver\Code\gdmgent-1819-csse1\lesweken\lesweek3\bin\Debug\netcoreapp2.0\lesweek3.dll
+C:\Users\topsolver\Code\gdmgent-1819-csse1\lesweken\lesweek3\bin\Debug\netcoreapp2.0\lesweek3.pdb
+C:\Users\topsolver\Code\gdmgent-1819-csse1\lesweken\lesweek3\obj\Debug\netcoreapp2.0\lesweek3.csproj.CoreCompileInputs.cache
+C:\Users\topsolver\Code\gdmgent-1819-csse1\lesweken\lesweek3\obj\Debug\netcoreapp2.0\lesweek3.AssemblyInfoInputs.cache
+C:\Users\topsolver\Code\gdmgent-1819-csse1\lesweken\lesweek3\obj\Debug\netcoreapp2.0\lesweek3.AssemblyInfo.cs
+C:\Users\topsolver\Code\gdmgent-1819-csse1\lesweken\lesweek3\obj\Debug\netcoreapp2.0\lesweek3.dll
+C:\Users\topsolver\Code\gdmgent-1819-csse1\lesweken\lesweek3\obj\Debug\netcoreapp2.0\lesweek3.pdb
+C:\Users\topsolver\Code\gdmgent-1819-csse1\lesweken\lesweek3\obj\Debug\netcoreapp2.0\lesweek3.csprojResolveAssemblyReference.cache
