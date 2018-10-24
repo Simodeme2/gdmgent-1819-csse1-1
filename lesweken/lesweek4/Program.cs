@@ -86,7 +86,8 @@ namespace lesweek4
             }
 
             Program program = new Program();
-            program.Tafel(1);
+            int tafelVan = Convert.ToInt32(Console.ReadLine());
+            program.Tafel(tafelVan);
             program.Tafel(2);
             program.Tafel(3);
             //Tafel(1);

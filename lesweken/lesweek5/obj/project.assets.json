@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\krisra\\code\\gdmgent-1819-csse1\\lesweken\\lesweek3\\lesweek3.csproj",
-      "projectName": "lesweek3",
-      "projectPath": "c:\\Users\\krisra\\code\\gdmgent-1819-csse1\\lesweken\\lesweek3\\lesweek3.csproj",
+      "projectUniqueName": "C:\\Users\\krisra\\code\\gdmgent-1819-csse1\\lesweken\\lesweek5\\lesweek5.csproj",
+      "projectName": "lesweek5",
+      "projectPath": "C:\\Users\\krisra\\code\\gdmgent-1819-csse1\\lesweken\\lesweek5\\lesweek5.csproj",
       "packagesPath": "C:\\Users\\krisra\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\krisra\\code\\gdmgent-1819-csse1\\lesweken\\lesweek3\\obj\\",
+      "outputPath": "C:\\Users\\krisra\\code\\gdmgent-1819-csse1\\lesweken\\lesweek5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
