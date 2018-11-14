@@ -1,0 +1,11 @@
+C:\Users\krisra\code\gdmgent-1819-csse1\lesweken\lesweek6\bin\Debug\netcoreapp2.1\lesweek6.deps.json
+C:\Users\krisra\code\gdmgent-1819-csse1\lesweken\lesweek6\bin\Debug\netcoreapp2.1\lesweek6.runtimeconfig.json
+C:\Users\krisra\code\gdmgent-1819-csse1\lesweken\lesweek6\bin\Debug\netcoreapp2.1\lesweek6.runtimeconfig.dev.json
+C:\Users\krisra\code\gdmgent-1819-csse1\lesweken\lesweek6\bin\Debug\netcoreapp2.1\lesweek6.dll
+C:\Users\krisra\code\gdmgent-1819-csse1\lesweken\lesweek6\bin\Debug\netcoreapp2.1\lesweek6.pdb
+C:\Users\krisra\code\gdmgent-1819-csse1\lesweken\lesweek6\obj\Debug\netcoreapp2.1\lesweek6.csprojAssemblyReference.cache
+C:\Users\krisra\code\gdmgent-1819-csse1\lesweken\lesweek6\obj\Debug\netcoreapp2.1\lesweek6.csproj.CoreCompileInputs.cache
+C:\Users\krisra\code\gdmgent-1819-csse1\lesweken\lesweek6\obj\Debug\netcoreapp2.1\lesweek6.AssemblyInfoInputs.cache
+C:\Users\krisra\code\gdmgent-1819-csse1\lesweken\lesweek6\obj\Debug\netcoreapp2.1\lesweek6.AssemblyInfo.cs
+C:\Users\krisra\code\gdmgent-1819-csse1\lesweken\lesweek6\obj\Debug\netcoreapp2.1\lesweek6.dll
+C:\Users\krisra\code\gdmgent-1819-csse1\lesweken\lesweek6\obj\Debug\netcoreapp2.1\lesweek6.pdb
